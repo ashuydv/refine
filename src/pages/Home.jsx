@@ -8,6 +8,8 @@ import {
   Work,
   Cost,
   Difference,
+  Returns,
+  Why
 } from "../components";
 
 export const Home = () => {
@@ -20,6 +22,8 @@ export const Home = () => {
       <Work />
       <Cost />
       <Difference />
+      <Returns />
+      <Why/>
       <Footer />
     </div>
   );

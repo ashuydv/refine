@@ -1,0 +1,11 @@
+* {
+  font-family: "Varela Round", sans-serif;
+}
+
+.container {
+  max-width: 1300px;
+}
+
+header {
+  z-index: 1000;
+}
